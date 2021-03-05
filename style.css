@@ -23,7 +23,7 @@
         .main-konten {
             width: 403em;
             margin: 10px;
-            background-image: url("./main\ bg.png");
+            background-image: url("./img/main-bg.png");
             display: flex;
             align-items: center;
             box-shadow: 6px 6px 12px 2px rgba(0, 0, 0, 0.12);
@@ -38,7 +38,7 @@
         .gambar {
             height: 620px;
             width: 400px;
-            background-image: url("./photo_2021-03-03\ 14.05.03.jpeg");
+            background-image: url("./img/pp.jpeg");
             background-size: cover;
             background-position-x: -10px;
             z-index: 1;
